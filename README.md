@@ -1,2 +1,2 @@
 # Estudo do Segundo Trimestre
-Douglas Carvalho
+Douglas Carvalho - 07
